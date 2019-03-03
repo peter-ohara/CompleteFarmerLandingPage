@@ -10,9 +10,6 @@ export default class SectionFeatures extends React.Component {
                 <Row>
                     <Colxx xxs={{ size: "12", offset: 0 }} lg={{ size: 8, offset: 2 }} className="text-center">
                         <h1><IntlMessages id="lp.featuressection.title"/></h1>
-                        <p>
-                            <IntlMessages id="lp.featuressection.detail"/>
-                        </p>
                     </Colxx>
                 </Row>
 
@@ -23,8 +20,7 @@ export default class SectionFeatures extends React.Component {
                                 <h2><IntlMessages id="lp.featuressection.title-1"/></h2>
                                 <p>
                                     <IntlMessages id="lp.featuressection.detail-1-1"/><br/><br/>
-                                    <IntlMessages id="lp.featuressection.detail-1-2"/><br/><br/>
-                                    <IntlMessages id="lp.featuressection.detail-1-3"/>
+                                    <IntlMessages id="lp.featuressection.detail-1-2"/>
                                 </p>
                             </div>
                         </div>
@@ -44,8 +40,7 @@ export default class SectionFeatures extends React.Component {
                                 <h2><IntlMessages id="lp.featuressection.title-2"/></h2>
                                 <p>
                                     <IntlMessages id="lp.featuressection.detail-2-1"/><br/><br/>
-                                    <IntlMessages id="lp.featuressection.detail-2-2"/><br/><br/>
-                                    <IntlMessages id="lp.featuressection.detail-2-3"/>
+                                    <IntlMessages id="lp.featuressection.detail-2-2"/>
                                 </p>
                             </div>
                         </div>
@@ -58,9 +53,15 @@ export default class SectionFeatures extends React.Component {
                             <div className="feature-text-container">
                                 <h2><IntlMessages id="lp.featuressection.title-3"/></h2>
                                 <p>
+                                    <IntlMessages id="lp.featuressection.detail-3-choose"/> <br/>
+                                    <strong>
+                                      <IntlMessages id="lp.featuressection.detail-3-crowd-farmer"/>
+                                    </strong> -
                                     <IntlMessages id="lp.featuressection.detail-3-1"/><br/><br/>
-                                    <IntlMessages id="lp.featuressection.detail-3-2"/><br/><br/>
-                                    <IntlMessages id="lp.featuressection.detail-3-3"/>
+                                    <strong>
+                                      <IntlMessages id="lp.featuressection.detail-3-off-taker"/>
+                                    </strong> -
+                                    <IntlMessages id="lp.featuressection.detail-3-2"/>
                                  </p>
                             </div>
                         </div>

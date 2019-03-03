@@ -28,13 +28,13 @@ export default class SectionTeam extends React.Component {
                             <Card>
                                 <div className="position-relative">
                                     <img className="card-img-top" src="/assets/img/landing-page/team-1.jpg" alt="Card cap" />
-                                    <Badge color="secondary" pill className="position-absolute badge-top-left">FRONTEND</Badge>
+                                    <Badge color="secondary" pill className="position-absolute badge-top-left">ENGINEER</Badge>
                                 </div>
                                 <CardBody>
-                                    <h6 className="mb-4">Philip Nelms</h6>
+                                    <h6 className="mb-4">Desmond Koney</h6>
                                     <footer>
                                         <p className="text-muted text-small mb-0 font-weight-light">
-                                            Sr. Developer
+                                            CEO
                                         </p>
                                     </footer>
                                 </CardBody>
@@ -45,13 +45,13 @@ export default class SectionTeam extends React.Component {
                             <Card>
                                 <div className="position-relative">
                                     <img className="card-img-top" src="/assets/img/landing-page/team-3.jpg" alt="Card cap" />
-                                    <Badge color="secondary" pill className="position-absolute badge-top-left">FRONTEND</Badge>
+                                    <Badge color="secondary" pill className="position-absolute badge-top-left">ENGINEER</Badge>
                                 </div>
                                 <CardBody>
-                                    <h6 className="mb-4">Mimi Carreira</h6>
+                                    <h6 className="mb-4">Andrew Quartey</h6>
                                     <footer>
                                         <p className="text-muted text-small mb-0 font-weight-light">
-                                            Jr. Developer
+                                            CTO
                                         </p>
                                     </footer>
                                 </CardBody>
@@ -62,13 +62,13 @@ export default class SectionTeam extends React.Component {
                             <Card>
                                 <div className="position-relative">
                                     <img className="card-img-top" src="/assets/img/landing-page/team-2.jpg" alt="Card cap" />
-                                    <Badge color="primary" pill className="position-absolute badge-top-left">BACKEND</Badge>
+                                    <Badge color="primary" pill className="position-absolute badge-top-left">BUSINESS DEVELOPER</Badge>
                                 </div>
                                 <CardBody>
-                                    <h6 className="mb-4">Terese Threadgill</h6>
+                                    <h6 className="mb-4">Zoussi Ley</h6>
                                     <footer>
                                         <p className="text-muted text-small mb-0 font-weight-light">
-                                            Sr. Developer
+                                            CMO
                                         </p>
                                     </footer>
                                 </CardBody>
@@ -79,13 +79,13 @@ export default class SectionTeam extends React.Component {
                             <Card>
                                 <div className="position-relative">
                                     <img className="card-img-top" src="/assets/img/landing-page/team-4.jpg" alt="Card cap" />
-                                    <Badge color="primary" pill className="position-absolute badge-top-left">BACKEND</Badge>
+                                    <Badge color="primary" pill className="position-absolute badge-top-left">PROJECT MANAGER</Badge>
                                 </div>
                                 <CardBody>
-                                    <h6 className="mb-4">Terese Threadgill</h6>
+                                    <h6 className="mb-4">Joan Ejeta</h6>
                                     <footer>
                                         <p className="text-muted text-small mb-0 font-weight-light">
-                                            Sr. Developer
+                                            COO
                                         </p>
                                     </footer>
                                 </CardBody>
@@ -96,18 +96,35 @@ export default class SectionTeam extends React.Component {
                             <Card>
                                 <div className="position-relative">
                                     <img className="card-img-top" src="/assets/img/landing-page/team-5.jpg" alt="Card cap" />
-                                    <Badge color="theme-3" pill className="position-absolute badge-top-left">DESIGN</Badge>
+                                    <Badge color="theme-3" pill className="position-absolute badge-top-left">CROP SCIENTIST</Badge>
                                 </div>
                                 <CardBody>
-                                    <h6 className="mb-4">Esperanza Lodge</h6>
+                                    <h6 className="mb-4">Farm Manager</h6>
                                     <footer>
                                         <p className="text-muted text-small mb-0 font-weight-light">
-                                            Artdirector
+                                          Agronomist
                                         </p>
                                     </footer>
                                 </CardBody>
                             </Card>
                         </div>
+
+                      <div className="pr-3 pl-3 d-flex">
+                        <Card>
+                          <div className="position-relative">
+                            <img className="card-img-top" src="/assets/img/landing-page/team-5.jpg" alt="Card cap" />
+                            <Badge color="theme-3" pill className="position-absolute badge-top-left">FARM MANAGEMENT</Badge>
+                          </div>
+                          <CardBody>
+                            <h6 className="mb-4">Farm Manager</h6>
+                            <footer>
+                              <p className="text-muted text-small mb-0 font-weight-light">
+                                Chief Farm Manager
+                              </p>
+                            </footer>
+                          </CardBody>
+                        </Card>
+                      </div>
                     </ReactSiemaCarousel>
                 </Colxx>
             </Row>

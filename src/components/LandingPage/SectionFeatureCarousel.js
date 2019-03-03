@@ -30,7 +30,7 @@ export default class SectionFeatureCarousel extends React.Component {
                                     <div>
                                         <p className="detail-text"><IntlMessages id="lp.featurecarousel.detail-1"/></p>
                                     </div>
-                                    <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
+                                    <NavLink className="btn btn-link font-weight-semibold" to="/blog-detail"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
                                 </CardBody>
                             </Card>
                         </div>
@@ -44,7 +44,7 @@ export default class SectionFeatureCarousel extends React.Component {
                                     <div>
                                         <p className="detail-text"><IntlMessages id="lp.featurecarousel.detail-2"/></p>
                                     </div>
-                                    <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
+                                    <NavLink className="btn btn-link font-weight-semibold" to="/blog-detail"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
                                 </CardBody>
                             </Card>
                         </div>
@@ -58,7 +58,7 @@ export default class SectionFeatureCarousel extends React.Component {
                                     <div>
                                         <p className="detail-text"><IntlMessages id="lp.featurecarousel.detail-3"/></p>
                                     </div>
-                                    <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
+                                    <NavLink className="btn btn-link font-weight-semibold" to="/blog-detail"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
                                 </CardBody>
                             </Card>
                         </div>
@@ -73,7 +73,7 @@ export default class SectionFeatureCarousel extends React.Component {
                                     <div>
                                         <p className="detail-text"><IntlMessages id="lp.featurecarousel.detail-4"/></p>
                                     </div>
-                                    <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
+                                    <NavLink className="btn btn-link font-weight-semibold" to="/blog-detail"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
                                 </CardBody>
                             </Card>
                         </div>
@@ -87,7 +87,7 @@ export default class SectionFeatureCarousel extends React.Component {
                                     <div>
                                         <p className="detail-text"><IntlMessages id="lp.featurecarousel.detail-5"/></p>
                                     </div>
-                                    <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
+                                    <NavLink className="btn btn-link font-weight-semibold" to="/blog-detail"><IntlMessages id="lp.featurecarousel.view"/></NavLink>
                                 </CardBody>
                             </Card>
                         </div>

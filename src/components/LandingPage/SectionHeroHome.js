@@ -48,13 +48,12 @@ export default class SectionHeroHome extends React.Component {
               <IntlMessages id="lp.hero.detail-line-2" />
               <br />
               <br />
-              <IntlMessages id="lp.hero.detail-line-3" />
             </p>
             <NavLink
-              to="/auth-register"
+              to="/features"
               className="btn btn-outline-semi-light btn-xl"
             >
-              <IntlMessages id="lp.hero.register" />
+              <IntlMessages id="lp.hero.learn-more" />
             </NavLink>
           </div>
         </Colxx>

@@ -24,25 +24,22 @@ export class MenuMultipage extends Component {
           <span className="dark" />
         </NavLink>
         <Nav className="navbar-nav d-none d-lg-flex flex-row">
-          <NavItem className={window.location.pathname === '/features' ? 'active' : ''}>
-            <NavLink to="/features">
-              <IntlMessages id="lp.menu.features" />
+          <NavItem className={window.location.pathname === '/multipage-home' ? 'active' : ''}>
+            <NavLink to="/multipage-home">
+              <IntlMessages id="lp.menu.home" />
             </NavLink>
           </NavItem>
-          <NavItem className={window.location.pathname === '/contact' || window.location.pathname === '/videos' || window.location.pathname === '/docs' ? 'active' : ''}>
+          <NavItem className={window.location.pathname === '/features' || window.location.pathname === '/videos' ? 'active' : ''}>
             <UncontrolledDropdown>
               <DropdownToggle tag="a" caret color="empty" href="#">
                 <IntlMessages id="lp.menu.learn" />
               </DropdownToggle>
               <DropdownMenu>
-                <NavLink to="/docs" className="dropdown-item">
-                  <IntlMessages id="lp.menu.docs" />
+                <NavLink to="/features" className="dropdown-item">
+                  <IntlMessages id="lp.menu.features" />
                 </NavLink>
                 <NavLink to="/videos" className="dropdown-item">
                   <IntlMessages id="lp.menu.videos" />
-                </NavLink>
-                <NavLink to="/contact" className="dropdown-item">
-                  <IntlMessages id="lp.menu.help" />
                 </NavLink>
               </DropdownMenu>
             </UncontrolledDropdown>
@@ -57,6 +54,11 @@ export class MenuMultipage extends Component {
               <IntlMessages id="lp.menu.blog" />
             </NavLink>
           </NavItem>
+          <NavItem className={window.location.pathname === '/contact' ? 'active' : ''}>
+            <NavLink to="/contact">
+              <IntlMessages id="lp.menu.contact" />
+            </NavLink>
+          </NavItem>
           <NavItem className={window.location.pathname === '/auth-login' ? 'active' : ''}>
             <NavLink to="/auth-login">
               <IntlMessages id="lp.menu.signin" />
@@ -65,8 +67,7 @@ export class MenuMultipage extends Component {
           <NavItem>
             <NavLink
               className="btn btn-outline-semi-light btn-sm pr-4 pl-4"
-              to="/auth-register"
-            >
+              to="/auth-register">
               <IntlMessages id="lp.menu.signup" />
             </NavLink>
           </NavItem>
@@ -115,25 +116,22 @@ export class MenuMultipageMobile extends React.Component {
           <span />
         </NavLink>
         <Nav className="navbar-nav">
-          <NavItem className={window.location.pathname === '/features' ? 'active' : ''}>
-            <NavLink to="/features">
-              <IntlMessages id="lp.menu.features" />
+          <NavItem className={window.location.pathname === '/multipage-home' ? 'active' : ''}>
+            <NavLink to="/multipage-home">
+              <IntlMessages id="lp.menu.home" />
             </NavLink>
           </NavItem>
-          <NavItem className={window.location.pathname === '/contact' || window.location.pathname === '/videos' || window.location.pathname === '/docs' ? 'active' : ''}>
+          <NavItem className={window.location.pathname === '/videos' || window.location.pathname === '/features' ? 'active' : ''}>
             <UncontrolledDropdown>
               <DropdownToggle tag="a" caret color="empty" href="#">
                 <IntlMessages id="lp.menu.learn" />
               </DropdownToggle>
               <DropdownMenu>
-                <NavLink to="/docs" className="dropdown-item">
-                  <IntlMessages id="lp.menu.docs" />
+                <NavLink to="/features" className="dropdown-item">
+                  <IntlMessages id="lp.menu.features" />
                 </NavLink>
                 <NavLink to="/videos" className="dropdown-item">
                   <IntlMessages id="lp.menu.videos" />
-                </NavLink>
-                <NavLink to="/contact" className="dropdown-item">
-                  <IntlMessages id="lp.menu.help" />
                 </NavLink>
               </DropdownMenu>
             </UncontrolledDropdown>
@@ -146,6 +144,11 @@ export class MenuMultipageMobile extends React.Component {
           <NavItem className={window.location.pathname === '/blog' ? 'active' : ''}>
             <NavLink to="/blog">
               <IntlMessages id="lp.menu.blog" />
+            </NavLink>
+          </NavItem>
+          <NavItem className={window.location.pathname === '/contact' ? 'active' : ''}>
+            <NavLink to="/contact">
+              <IntlMessages id="lp.menu.contact" />
             </NavLink>
           </NavItem>
 

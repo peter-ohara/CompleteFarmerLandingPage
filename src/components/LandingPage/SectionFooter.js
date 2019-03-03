@@ -112,16 +112,6 @@ export default class SectionHero extends React.Component {
                                             <IntlMessages id="lp.footer.menu-2-2" />
                                         </NavLink>
                                     </li>
-                                    <li>
-                                        <NavLink to="/docs-detail">
-                                            <IntlMessages id="lp.footer.menu-2-3" />
-                                        </NavLink>
-                                    </li>
-                                    <li>
-                                        <NavLink to="/docs-detail">
-                                            <IntlMessages id="lp.footer.menu-2-4" />
-                                        </NavLink>
-                                    </li>
                                 </Collapse>
                             </div>
                         </Colxx>
@@ -139,6 +129,11 @@ export default class SectionHero extends React.Component {
                                         <p><IntlMessages id="lp.footer.menu-3" /></p>
                                     </li>
                                     <li>
+                                        <NavLink to="/videos">
+                                            <IntlMessages id="lp.footer.menu-3-4" />
+                                        </NavLink>
+                                    </li>
+                                    <li>
                                         <NavLink to="/contact">
                                             <IntlMessages id="lp.footer.menu-3-1" />
                                         </NavLink>
@@ -151,11 +146,6 @@ export default class SectionHero extends React.Component {
                                     <li>
                                         <NavLink to="/docs">
                                             <IntlMessages id="lp.footer.menu-3-3" />
-                                        </NavLink>
-                                    </li>
-                                    <li>
-                                        <NavLink to="/videos">
-                                            <IntlMessages id="lp.footer.menu-3-4" />
                                         </NavLink>
                                     </li>
                                 </Collapse>
@@ -195,7 +185,7 @@ export default class SectionHero extends React.Component {
 
                     </Row>
                 </Container>
-                
+
                 <div className="separator mt-5"></div>
 
                 <Container className="copyright pt-5 pb-5">
@@ -206,13 +196,19 @@ export default class SectionHero extends React.Component {
                         <div className="col-6 text-right social-icons">
                             <ul className="list-unstyled list-inline">
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="simple-icon-social-facebook"></i></a>
+                                    <a href="https://web.facebook.com/CompleteFarmer">
+                                      <i className="simple-icon-social-facebook"></i>
+                                    </a>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="simple-icon-social-twitter"></i></a>
+                                    <a href="https://twitter.com/completefarmer">
+                                      <i className="simple-icon-social-twitter"></i>
+                                    </a>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="simple-icon-social-instagram"></i></a>
+                                    <a href="https://www.instagram.com/completefarmer/">
+                                      <i className="simple-icon-social-instagram"></i>
+                                    </a>
                                 </li>
                             </ul>
                         </div>
