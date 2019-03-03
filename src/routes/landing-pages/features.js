@@ -7,7 +7,7 @@ import { NavLink } from "react-router-dom";
 import SubHero from "Components/LandingPage/SectionHeroSub";
 import Footer from "Components/LandingPage/SectionFooter";
 import Offer from "Components/LandingPage/SectionOffer";
-import FeaturesSection from "Components/LandingPage/SectionFeatures";
+import FeaturesSection2 from "Components/LandingPage/SectionFeatures2";
 import FeaturesIcons from "Components/LandingPage/SectionFeaturesIcons";
 import Screens from "Components/LandingPage/SectionFeaturesScreens";
 import { injectIntl} from 'react-intl';
@@ -94,7 +94,7 @@ class Features extends Component {
 
               <div className="section">
                 <Container>
-                  <FeaturesSection/>
+                  <FeaturesSection2/>
                 </Container>
               </div>
 
