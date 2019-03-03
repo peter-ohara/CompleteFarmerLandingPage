@@ -24,7 +24,7 @@ export default class SectionFeatureCarousel extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Cupcake large-icon"></i>
+                                        <i className="iconsmind-Soup large-icon"></i>
                                         <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.featurecarousel.title-1"/></h5>
                                     </div>
                                     <div>
@@ -38,7 +38,7 @@ export default class SectionFeatureCarousel extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Line-Chart2 large-icon"></i>
+                                        <i className="iconsmind-Dollar-Sign large-icon"></i>
                                         <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.featurecarousel.title-2"/></h5>
                                     </div>
                                     <div>
@@ -52,7 +52,7 @@ export default class SectionFeatureCarousel extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Three-ArrowFork large-icon"></i>
+                                        <i className="iconsmind-Conference large-icon"></i>
                                         <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.featurecarousel.title-3"/></h5>
                                     </div>
                                     <div>
@@ -67,7 +67,7 @@ export default class SectionFeatureCarousel extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Funny-Bicycle large-icon"></i>
+                                        <i className="iconsmind-Globe large-icon"></i>
                                         <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.featurecarousel.title-4"/></h5>
                                     </div>
                                     <div>
