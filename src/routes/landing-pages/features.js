@@ -14,6 +14,7 @@ import { injectIntl} from 'react-intl';
 
 import { connect } from "react-redux";
 import {landingPageMobileMenuToggle,landingPageMobileMenuClose} from "Redux/actions";
+import IntlMessages from 'Util/IntlMessages'
 const mapStateToProps = ({ landingPage }) => {
   const { isMobileMenuOpen} = landingPage;
   return { isMobileMenuOpen };
@@ -66,7 +67,11 @@ class Features extends Component {
             <div className="content-container" ref={(x) => { this.home = x; }}>
               <div className="section home subpage">
                 <Container>
-                  <SubHero title={messages["lp.features.title"] } detail={messages["lp.features.detail"] }/>
+                  <SubHero title={messages["lp.features.title"] } detail={messages["lp.features.detail"] }>
+                    <p className="white mb-5">
+                      <IntlMessages id="lp.features.detail-2"/>
+                    </p>
+                  </SubHero>
                   <Row>
                     <NavLink className="btn btn-circle btn-outline-semi-light hero-circle-button" to="#" onClick={(event) => this.onMenuClick("content", event)}>
                       <i className="simple-icon-arrow-down"></i>
