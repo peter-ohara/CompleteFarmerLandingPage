@@ -31,6 +31,7 @@ import Docs from "Routes/landing-pages/docs";
 import Features from "Routes/landing-pages/features";
 import Prices from "Routes/landing-pages/prices";
 import Videos from "Routes/landing-pages/videos";
+import CrowdFarming from "Routes/landing-pages/crowd-farming";
 import VideoDetail from "Routes/landing-pages/video-detail";
 import DocsDetail from "Routes/landing-pages/docs-detail";
 
@@ -90,6 +91,7 @@ class App extends Component {
 							<Route path={`/features`} component={Features} />
 							<Route path={`/prices`} component={Prices} />
 							<Route path={`/videos`} component={Videos} />
+							<Route path={`/crowd-farming`} component={CrowdFarming} />
 							<Route path={`/video-detail`} component={VideoDetail} />
 							<Route path={`/docs-detail`} component={DocsDetail} />
 

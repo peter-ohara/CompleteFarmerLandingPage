@@ -607,6 +607,16 @@ module.exports = {
   "lp.featuressection2.detail-3-2": "This gives you real farm insights and control of your farm. You can chat with the farm manager of your farm to engage in the farming process.",
   "lp.featuressection2.detail-3-3": "You also get to see real time market prices of the food growing on your farm.",
 
+  "lp.featuressection3.title-1": "Crowd Farmers",
+  "lp.featuressection3.detail-1-1": "Have your farm in a carefully selected land location for selected crop. You can own a farm without owning the assets, tools, and labour. This makes it very cost effective to farm because sharing these resources with other farmers makes the cost of farming cheap and operationally efficient.",
+  "lp.featuressection3.detail-1-2": "Crowd farmers subscribe by paying the production cost of the farm for the growing cycle of the crop and can renew subscription whenever farms are available. Crowd farmers can monitor their farms from their farm dashboards in real time.",
+  "lp.featuressection3.detail-1-3": "Anyone anywhere can be a crowd farmer and grow food for premium market demands in any country Complete Farmer farms and make healthy returns.",
+  "lp.featuressection3.title-2": "Off Takers",
+  "lp.featuressection3.detail-2-1": "Off takers are users who want to grow foods for their own needs. You can buy farm produce from Crowd Farmers farms or order your own farms for your own purposes at a discount.",
+  "lp.featuressection3.detail-2-2": "Off takers are typically industries and buyers or traders in high demand of farm produce, who would like crops to be grown to meet their specifications. Through Complete Farmer, Off Takers can have their crop demands met.",
+  "lp.featuressection3.detail-2-3": "Whether you are a factory, commodity trader, exporter, or small business owner in high demand of farm produce, you can farm there produce and buy from crowd farmers to meet your needs.",
+
+
   "lp.reviews.title": "Farmers all over the World",
   "lp.reviews.detail": "We have built farms for people all over the world and supplied produce to buyers across the globe. These are some of the amazing people feeding the world.",
   "lp.reviews.review-name-1": "Judith Ofosuhene, Oman",
@@ -762,6 +772,10 @@ module.exports = {
   "lp.videos.title": "Video Guides",
   "lp.videos.detail": "Search our videos to provide you the guidence to get you started.",
   "lp.videos.search": "Search",
+
+  "lp.crowdfarming.title": "Crowd Farming",
+  "lp.crowdfarming.detail": "The new way to farm in the 21st century. We are Digitizing farming and making it a lifestyle not just a profession.",
+  "lp.crowdfarming.signin": "Sign In",
 
   "lp.contact.title": "Contact Us",
   "lp.contact.detail": "Reach us with any questions you may have. We would get in touch with updates.",
