@@ -44,10 +44,13 @@ export default class SectionConnect extends React.Component {
                                 <Card>
                                     <CardBody className="text-center">
                                         <div className="mb-4">
-                                            <i className="iconsmind-Conference large-icon"></i>
+                                            <i className="iconsmind-Facebook large-icon"></i>
                                             <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.connect.title-2" /></h5>
                                         </div>
-                                        <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.connect.button-2" /></NavLink>
+                                      <a className="btn btn-link font-weight-semibold"
+                                         href="https://web.facebook.com/CompleteFarmer">
+                                        <IntlMessages id="lp.connect.button-2" />
+                                      </a>
                                     </CardBody>
                                 </Card>
                             </div>
@@ -55,10 +58,13 @@ export default class SectionConnect extends React.Component {
                                 <Card>
                                     <CardBody className="text-center">
                                         <div className="mb-4">
-                                            <i className="iconsmind-Play-Music large-icon"></i>
+                                            <i className="iconsmind-Youtube large-icon"></i>
                                             <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.connect.title-3" /></h5>
                                         </div>
-                                        <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.connect.button-3" /></NavLink>
+                                      <a className="btn btn-link font-weight-semibold"
+                                         href="#">
+                                        <IntlMessages id="lp.connect.button-3" />
+                                      </a>
                                     </CardBody>
                                 </Card>
                             </div>
@@ -67,10 +73,13 @@ export default class SectionConnect extends React.Component {
                                 <Card>
                                     <CardBody className="text-center">
                                         <div className="mb-4">
-                                            <i className="iconsmind-Folder-WithDocument large-icon"></i>
+                                            <i className="iconsmind-Instagram large-icon"></i>
                                             <h5 className="mb-0 font-weight-semibold"><IntlMessages id="lp.connect.title-4" /></h5>
                                         </div>
-                                        <NavLink className="btn btn-link font-weight-semibold" to="/features"><IntlMessages id="lp.connect.button-4" /></NavLink>
+                                      <a className="btn btn-link font-weight-semibold"
+                                         href="https://www.instagram.com/completefarmer/">
+                                        <IntlMessages id="lp.connect.button-4" />
+                                      </a>
                                     </CardBody>
                                 </Card>
                             </div>

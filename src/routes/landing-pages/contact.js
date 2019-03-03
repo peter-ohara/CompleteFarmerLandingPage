@@ -126,14 +126,18 @@ class Contact extends Component {
                       <h2>Contact Info</h2>
 
                       <p className="text-primary mb-2">Address</p>
-                      <p className="mb-5">35 Little Russell St Bloomsbury London<br />WC1A 2HH UK</p>
+                      <p className="mb-5">
+                        19 Banana Street<br />
+                        Ambassadorial Enclave<br />
+                        East Legon<br />
+                        Accra, Ghana
+                      </p>
 
                       <p className="text-primary mb-2">Phone</p>
-                      <p className="mb-0">+00 42 287 2686</p>
-                      <p className="mb-5">+00 42 287 2685</p>
+                      <p className="mb-5">(+233) 201 468190</p>
 
                       <p className="text-primary mb-2">E-mail</p>
-                      <p className="mb-0">info@woodentoys.com</p>
+                      <p className="mb-0">info@completefarmer.com</p>
                     </Colxx>
                   </Row>
 
