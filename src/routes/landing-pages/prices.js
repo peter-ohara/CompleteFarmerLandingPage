@@ -8,7 +8,7 @@ import SubHero from "Components/LandingPage/SectionHeroSub";
 import Footer from "Components/LandingPage/SectionFooter";
 import SectionPricingTable from "Components/LandingPage/SectionPricingTable";
 import SectionPricingComparison from "Components/LandingPage/SectionPricingComparison";
-import Offer from "Components/LandingPage/SectionOffer";
+import Offer2 from "Components/LandingPage/SectionOffer2";
 import { injectIntl} from 'react-intl';
 
 import { connect } from "react-redux";
@@ -88,7 +88,7 @@ class Prices extends Component {
 
               <div className="section background background-no-bottom mb-0">
                 <Container>
-                  <Offer/>
+                  <Offer2/>
                 </Container>
               </div>
 

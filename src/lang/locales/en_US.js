@@ -699,6 +699,10 @@ module.exports = {
   "lp.offer.detail": "Start your journey to becoming a Complete Farmer and own the next farm available. Join the farming revolution and make money on your farming venture without discarding your regular routine. Let us build you your dream farm.",
   "lp.offer.button": "SIGN UP",
 
+  "lp.offer2.title": "Don’t forget to sign up",
+  "lp.offer2.detail": "Sign up for updates on new farm openings and community news",
+  "lp.offer2.button": "SIGN UP",
+
   "lp.screens.title": "Farm Dashboard",
   "lp.screens.detail": "An interactive tool for anyone to make you a complete farmer and enjoy the farming experience anywhere.",
   "lp.screens.library": "Library",
