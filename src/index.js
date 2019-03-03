@@ -6,7 +6,7 @@ color options :
 	 'light.orange'		'dark.orange'
 	 'light.red'		  'dark.red'
 */
-var color = 'light.purple';
+var color = 'light.green';
 if (localStorage.getItem('themeColor')) {
   color = localStorage.getItem('themeColor');
 }
