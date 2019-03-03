@@ -22,7 +22,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Mouse-3 large-icon"></i>
+                                        <i className="iconsmind-Cursor-Click2 large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-1" /></h5>
                                     </div>
                                     <div>
@@ -38,7 +38,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Electric-Guitar large-icon"></i>
+                                        <i className="iconsmind-Cloud-Sun large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-2" /></h5>
                                     </div>
                                     <div>
@@ -54,7 +54,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Keyboard large-icon"></i>
+                                        <i className="iconsmind-Bar-Chart large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-3" /></h5>
                                     </div>
                                     <div>
@@ -70,7 +70,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Three-ArrowFork large-icon"></i>
+                                        <i className="iconsmind-Tractor large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-4" /></h5>
                                     </div>
                                     <div>
@@ -86,7 +86,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Deer large-icon"></i>
+                                        <i className="iconsmind-Shield large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-5" /></h5>
                                     </div>
                                     <div>
@@ -102,7 +102,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Palette large-icon"></i>
+                                        <i className="iconsmind-Administrator large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-6" /></h5>
                                     </div>
                                     <div>
@@ -118,7 +118,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Air-Balloon large-icon"></i>
+                                        <i className="iconsmind-Clothing-Store large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-7" /></h5>
                                     </div>
                                     <div>
@@ -134,7 +134,7 @@ export default class SectionFeaturesIcons extends React.Component {
                             <Card>
                                 <CardBody className="text-center">
                                     <div>
-                                        <i className="iconsmind-Pantone large-icon"></i>
+                                        <i className="iconsmind-Calendar-4 large-icon"></i>
                                         <h5 className="mb-4 font-weight-semibold"><IntlMessages id="lp.icons.title-8" /></h5>
                                     </div>
                                     <div>
