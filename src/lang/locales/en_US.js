@@ -650,8 +650,8 @@ module.exports = {
   "lp.blogsection.detail-4": "Completely synergize resource taxing credibly pontificate highly efficient relationships via premier niche markets.",
   "lp.blogsection.title-5": "Assertively Iterate Resource Maximizing",
 
-  "lp.pricetable.title": "Pricing",
-  "lp.pricetable.detail": "Get to know everything happening in modern day agriculture and keep up with the trends and how Complete Farmer is using staying competitive and delivering value across the agriculture value chain. Read through our blogs and gain special farming insights.",
+  "lp.pricetable.title": "Crowd Farmer Options",
+  "lp.pricetable.detail": "Select your preferred crops and start farming without any physical assets. Become a member of passionate farmers making a difference in the world through farming.",
   "lp.pricetable.purchase": "PURCHASE",
   "lp.pricetable.title-1": "DEVELOPER",
   "lp.pricetable.detail-1": "User/Month",
@@ -677,8 +677,8 @@ module.exports = {
   "lp.pricetable.feature-3-6": "Team Permissions",
   "lp.pricetable.feature-3-7": "User actions audit log",
 
-  "lp.pricecomparison.title": "Feature Comparison",
-  "lp.pricecomparison.detail": "Well, no need to brood on what tomorrow may bring. For one thing, tomorrow will be certain to bring worse than today, for many days to come. And there is nothing more that I can do to help it. The board is set, and the pieces are moving.",
+  "lp.pricecomparison.title": "Offtaker Pricing",
+  "lp.pricecomparison.detail": "If you are a commodity trader, factory, exporter, small business owner in any part of the world or any industry in high demand of farm produce, get a farm to grow for your needs and get supplied with fresh produce from Crowd Farmer farms. Get a farm and buy farm crops at a discounted price.",
 
   "lp.offer.title": "Start your next farm now",
   "lp.offer.detail": "Start your journey to becoming a Complete Farmer and own the next farm available. Join the farming revolution and make money on your farming venture without discarding your regular routine. Let us build you your dream farm.",
@@ -714,8 +714,8 @@ module.exports = {
   "lp.features.detail": "Become a Crowd Farmer and be on your way to owning a profitable farm business and farm from the comfort of your home.",
   "lp.features.detail-2": "Have control and monitor whatever is happening on your farm and enjoy the farming experience with just a few clicks",
 
-  "lp.pricing.title": "Prices for Every Budget",
-  "lp.pricing.detail": "Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.",
+  "lp.pricing.title": "Make your farm purchase",
+  "lp.pricing.detail": "Make your farm purchase. Choose the farm package that works best for you. Start your farming journey with a few clicks and join the farming revolution.",
 
   "lp.newsletter.title": "Newsletter",
   "lp.newsletter.detail": "Get updates, news, product information or stay up to date with farming trends please sign up for our newsletters below. You can unsubscribe at any time but hopefully you love to hear from us.",
@@ -736,8 +736,8 @@ module.exports = {
   "lp.register.login": "login",
   "lp.register.buttonlabel": "REGISTER",
 
-  "lp.docs.title": "Answers from Our Team",
-  "lp.docs.detail": "Search our documentation, guides and frequently asked questions.",
+  "lp.docs.title": "FAQs",
+  "lp.docs.detail": "Everything you need to know about Complete Farmer. These are some of the question people frequently ask us.",
   "lp.docs.search": "Search",
  
   "lp.videos.title": "Video Guides",
