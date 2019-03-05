@@ -160,17 +160,17 @@ export default class SectionHero extends React.Component {
                                         <p><IntlMessages id="lp.footer.menu-4" /></p>
                                     </li>
                                     <li>
-                                        <NavLink to="/content">
+                                        <NavLink to="/privacy-policy">
                                             <IntlMessages id="lp.footer.menu-4-1" />
                                         </NavLink>
                                     </li>
                                     <li>
-                                        <NavLink to="/content">
+                                        <NavLink to="/terms-of-conditions">
                                             <IntlMessages id="lp.footer.menu-4-2" />
                                         </NavLink>
                                     </li>
                                     <li>
-                                        <NavLink to="/content">
+                                        <NavLink to="/payment-and-refund-policy">
                                             <IntlMessages id="lp.footer.menu-4-3" />
                                         </NavLink>
                                     </li>

@@ -872,7 +872,16 @@ module.exports = {
   "lp.videodetails.detail": "Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.",
 
   "lp.content.title": "Systems Thinking Correlation", 
-  "lp.content.detail": "Green space global, policymaker; shared value disrupt segmentation social capital.", 
+  "lp.content.detail": "Green space global, policymaker; shared value disrupt segmentation social capital.",
+
+  "lp.privacy-policy.title": "Privacy Policy",
+  "lp.privacy-policy.detail": "",
+
+  "lp.terms-of-conditions.title": "Terms of Conditions",
+  "lp.terms-of-conditions.detail": "",
+
+  "lp.payment-and-refund-policy.title": "Payment & Refund Policy",
+  "lp.payment-and-refund-policy.detail": "",
 
   "lp.feedback.default": "Was this helpful?",
   "lp.feedback.like": "Thanks, glad to help!",

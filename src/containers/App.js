@@ -27,6 +27,9 @@ import Careers from "Routes/landing-pages/careers";
 import Confirmation from "Routes/landing-pages/confirmation";
 import Contact from "Routes/landing-pages/contact";
 import Content from "Routes/landing-pages/content";
+import PrivacyPolicy from "Routes/landing-pages/privacy-policy";
+import TermsOfConditions from "Routes/landing-pages/terms-of-conditions";
+import PaymentAndRefundPolicy from "Routes/landing-pages/payment-and-refund-policy";
 import Docs from "Routes/landing-pages/docs";
 import Features from "Routes/landing-pages/features";
 import Prices from "Routes/landing-pages/prices";
@@ -87,6 +90,9 @@ class App extends Component {
 							<Route path={`/confirmation`} component={Confirmation} />
 							<Route path={`/contact`} component={Contact} />
 							<Route path={`/content`} component={Content} />
+							<Route path={`/privacy-policy`} component={PrivacyPolicy} />
+							<Route path={`/terms-of-conditions`} component={TermsOfConditions} />
+							<Route path={`/payment-and-refund-policy`} component={PaymentAndRefundPolicy} />
 							<Route path={`/docs`} component={Docs} />
 							<Route path={`/features`} component={Features} />
 							<Route path={`/prices`} component={Prices} />
